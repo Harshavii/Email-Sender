@@ -9,3 +9,6 @@ In order to generate password for the email id from which email is being sent, d
 4. Enter your app name and device, select "Generate".
 5. Your app specified password is generated. 
 (note: turn on 2-step verification in order to make everything work)
+
+Websites like "PythonAnywhere" can be used in order to auto send emails for a scheduled period.
+Also, for windows, task scheduler can do the job.
